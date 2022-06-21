@@ -20,12 +20,10 @@ class Conmensal {
 		return platosQueComio
 	}
 	
-	
 	method eligeComida(platos){
 		return platos.anyOne()
 	}
 }
-
 
 class Vegetariano inherits Conmensal{
 	override method leAgrada(plato){

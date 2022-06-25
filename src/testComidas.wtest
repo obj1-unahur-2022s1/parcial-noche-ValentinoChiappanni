@@ -1,3 +1,4 @@
+//Test - OK
 import comidas.*
 describe "Test de Comidas" {
 	const panCasero = new Casero()

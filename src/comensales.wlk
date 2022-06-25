@@ -1,3 +1,4 @@
+//Comensales OK
 import comidas.*
 
 class Conmensal {

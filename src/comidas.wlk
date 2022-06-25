@@ -1,3 +1,5 @@
+//Panes: Los más práctico para este parcial era que fueran objetos y no clases. "Los tres únicos panes..." la clave en el enunciado esta en la palabra únicos.
+
 class Plato{
 	method peso()
 	method esVegetariano()
